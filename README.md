@@ -5,8 +5,6 @@
 
 ## Author:
 Srinivasan Poonkundran  
-Student ID: 23890908  
-Email: srinivasanp@arizona.edu
 
 ## Research Question:
 - How do agency types vary across different states in the USA?
